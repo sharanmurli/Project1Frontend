@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+#navbar-bg{
+	background-color: black;
+}
+.carousel-inner > .item > img{
+margin:auto;
+width:40%
+}
